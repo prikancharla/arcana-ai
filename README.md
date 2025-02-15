@@ -11,5 +11,10 @@ For virtual environment use venv and to install packages use command
 ### Python
 
 Version 3.13
+
 To install using homebrew use command 
 `brew install python@3.13`
+
+### Running FastAPI Demo app
+
+Run the app with command `fastapi dev main.py` in terminal. Open `http://127.0.0.1:8000` on browser to see the output.
